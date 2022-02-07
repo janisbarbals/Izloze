@@ -1,0 +1,7 @@
+table, th, td {
+    border: 1px solid black;
+  }
+  thead {
+    background-color: #7d02f0;
+    color: white;
+  }
